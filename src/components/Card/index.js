@@ -21,7 +21,7 @@ function Card() {
       <div className="card">
         <figure className="col-md-6">
           <img src={Weather} className="img-thumbnail" alt="password-generator"/>
-          <a href="https://cristinaruiz21.github.io/Password-Generator/" className="link-text">Random Password Generator</a>
+          <a href="https://cristinaruiz21.github.io/WeatherDashboard/" className="link-text">Weather Dashboard</a>
         </figure>
       </div>
       </Row>
@@ -29,13 +29,13 @@ function Card() {
       <div className="card">
         <figure className="col-md-6">
           <img src={FurFamily} className="img-thumbnail" alt="password-generator"/>
-          <a href="https://cristinaruiz21.github.io/Password-Generator/" className="link-text">Random Password Generator</a>
+          <a href="https://fur-family-34.herokuapp.com/" className="link-text">Fur Family</a>
         </figure>
       </div>
       <div className="card">
         <figure className="col-md-6">
           <img src={Organism} className="img-thumbnail" alt="password-generator"/>
-          <a href="https://cristinaruiz21.github.io/Password-Generator/" className="link-text">Random Password Generator</a>
+          <a href="https://summer-mute.github.io/NCBI-Model-Organism-Inspector/" className="link-text">NCBI Model Organism Inpector</a>
         </figure>
       </div>
       </Row>
@@ -43,13 +43,13 @@ function Card() {
       <div className="card">
         <figure className="col-md-6">
           <img src={Scheduler} className="img-thumbnail" alt="password-generator"/>
-          <a href="https://cristinaruiz21.github.io/Password-Generator/" className="link-text">Random Password Generator</a>
+          <a href="https://cristinaruiz21.github.io/WorkDayScheduler/" className="link-text">Work Day Scheduler</a>
         </figure>
       </div>
       <div className="card">
         <figure className="col-md-6">
           <img src={NoteTaker} className="img-thumbnail" alt="password-generator"/>
-          <a href="https://cristinaruiz21.github.io/Password-Generator/" className="link-text">Random Password Generator</a>
+          <a href="https://note-taker-348.herokuapp.com/" className="link-text">Note Taker</a>
         </figure>
       </div>
       </Row>
