@@ -5,14 +5,13 @@ import Col from "../components/Col";
 
 function Contact() {
   return (
-    <div>
+    <div className="page">
         <Container>
             <h1>Contact Me</h1>
             <Row>
                 <Col size="md-12">
                     <div class="icon LinkedIn">
-                        <h2>LinkedIn</h2>
-                        <a href="https://www.linkedin.com/in/cristina-ruiz-47527a134" class="fab fa-linkedin"></a>
+                        <a href="https://www.linkedin.com/in/cristina-ruiz-47527a134" class="fab fa-linkedin"><h2>LinkedIn</h2></a>
                     </div>
                     <div class="icon github">
                         <h2>GitHub</h2>

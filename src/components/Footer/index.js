@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
   return (
     <footer className="footer">
-      <span>Cristina Ruiz 2020</span>
+    Cristina Ruiz 2020
     </footer>
   );
 }

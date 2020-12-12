@@ -6,7 +6,7 @@ import Card from "../components/Card";
 
 function Portfolio(){
     return (
-      <div>
+      <div className="page">
           <Container>
               <h1>Portfolio</h1>
               <Card/>

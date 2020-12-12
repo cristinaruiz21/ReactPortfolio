@@ -1,9 +1,8 @@
 import React from "react";
-import "./style.css";
 
-function Jumbotron(props) {
+function Jumbotron() {
   return (
-    <div className="jumbotron text-center">
+    <div className="jumbotron">
       <h1>Cristina Ruiz</h1>
       <h3>Full Stack Web Developer</h3>
     </div>

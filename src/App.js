@@ -6,12 +6,13 @@ import Portfolio from "./pages/Portfolio";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Jumbotron from "./components/Jumbotron";
+import './App.css';
 
 function App() {
   return (
     <Router>
       <div>
-        <Jumbotron />
+        <Jumbotron className="jumbotron" />
         <Navbar />
           <Route exact path="/" component={About} />
           <Route exact path="/about" component={About} />
