@@ -8,6 +8,14 @@
   border:none!important;
   border-radius: 2%!important;
 }
+.img-thumbnail2{
+  background-color: transparent!important;
+  border:none!important;
+  border-radius: 2%!important;
+  width: 400px;
+  height: 200px;
+  padding-top: 10px;
+}
 
 .page{
   background-image: url("./images/White\ Geometric.png");
@@ -21,8 +29,55 @@
   background-color:#efd3d7!important;
   text-align: center;
   margin-bottom: 0px!important;
+  color: white;
 }
 
 .about{
   line-height: 2;
+}
+
+.navbar {
+  background-color: #8e9aaf;
+}
+ .nav-link{
+   color:white;
+ }
+
+ .nav-link:hover {
+  color: darkgray;
+}
+
+.link-text{
+  color:black;
+}
+
+.link-text:hover {
+  color: darkgray;
+}
+
+.card{
+  height: 400px;
+  width: 500px;
+  padding-left: 30px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 30px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.app {
+  border-radius: 4px;
+  background-color: lightgray!important;
+  border-color: lightgray!important;
+  border: none;
+  color: white!important;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 150px!important;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
 }
