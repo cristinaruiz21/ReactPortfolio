@@ -16,10 +16,10 @@ function Card() {
       <div className="card">
         <a href="https://cristinaruiz21.github.io/Password-Generator/" className="link-text">Random Password Generator</a>
         <img src={Password} className="img-thumbnail2" alt="password-generator"/>
-        <Button className="btn btn-primary btn-lg app">
+        <Button className="btn btn-primary btn-lg app" id="demo">
           <a href="https://cristinaruiz21.github.io/Password-Generator/">Demo</a>
         </Button>
-        <Button className="btn btn-primary btn-lg app">
+        <Button className="btn btn-primary btn-lg app" id="git">
           <a href="https://github.com/cristinaruiz21/Password-Generator">GitHub</a>
         </Button>
       </div>
