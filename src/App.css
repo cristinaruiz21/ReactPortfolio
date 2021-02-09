@@ -128,3 +128,16 @@
   padding-bottom: 290px;
 }
 
+@media screen and (max-width: 480px) {
+  .img-thumbnail2 {
+       width: 300px;
+  }
+  .card{
+    width: 350px;
+    height: 350px;
+    margin-bottom: 100px;
+  }
+  .about{
+    margin-top: 110px;
+  }
+} 
